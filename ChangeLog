@@ -1,0 +1,4 @@
+1.0.1:
+ * Autotoolized the project.
+ * Changed the directory structure a bit.
+ * Resolved some compiler warnings.

@@ -1,0 +1,19 @@
+<asset>
+	<author>
+		<name>Stephen Cameron</name>
+	</author>
+	<license>
+		<name>Public Domain Dedication</name>
+		<url>http://creativecommons.org/licenses/publicdomain/</url>
+	</license>
+	<details>
+		<mime>audio/ogg</mime>
+		<name>Big explosion</name>
+		<type>Sound effect</type>
+		<tag>sfx</tag>
+		<tag>puzzle</tag>
+	</details>
+	<collab>
+		<status>Complete</status>
+	</collab>
+</asset>

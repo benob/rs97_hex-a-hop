@@ -1,0 +1,21 @@
+<asset>
+	<author>
+		<name>Ari Mustonen</name>
+		<email>amuzen@users.sourceforge.net</email>
+		<url>http://hexahop.sourceforge.net</url>
+	</author>
+	<license>
+		<name>Public Domain Dedication</name>
+		<url>http://creativecommons.org/licenses/publicdomain/</url>
+	</license>
+	<details>
+		<mime>audio/ogg</mime>
+		<name>Ice</name>
+		<type>Sound effect</type>
+		<tag>sfx</tag>
+		<tag>puzzle</tag>
+	</details>
+	<collab>
+		<status>Usable</status>
+	</collab>
+</asset>
