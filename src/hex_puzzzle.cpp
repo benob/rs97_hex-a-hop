@@ -2531,6 +2531,8 @@ struct HexPuzzle : public State
 				DoHints();
 			}
 
+// disable rendering of waves in water
+#if 0
 			if (1)
 			{
 				SDL_Rect src = {0,SCREEN_H-1,SCREEN_W,1};
@@ -2555,6 +2557,7 @@ struct HexPuzzle : public State
 					SDL_BlitSurface(screen, &src, screen, &dst);
 				}
 			}
+#endif
 
 			if(isRenderMap)
 				SDL_BlitSurface(mapBG2, &src, screen, &dst);
